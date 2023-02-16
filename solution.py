@@ -1,2 +1,6 @@
-def is_same_val(val1, val2):
-    ...
+def abc():
+    if wins == draws:
+        print("true")
+    else:
+        print("false")
+abc()
