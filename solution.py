@@ -1,2 +1,3 @@
-def is_same_val(val1, val2):
-    ...
+def abc(wins, draws):
+    return wins == draws
+print(abc(1,2))
